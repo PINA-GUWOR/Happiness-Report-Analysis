@@ -76,6 +76,5 @@
   # Introducing Community Programs to engage the youths and support the elderly.
   # Healthcare Initiatives should be introduced to focus on preventive care and expand mental health services.
   # Improving education quality and create job opportunities.
-  # Transparent Governance: Strengthen anti-corruption efforts and increase public participation.
-  # Promote Freedom and Rights: Reform legal systems and promote gender equality.
+  # Reforming legal systems and promoting gender equality.
 -----
